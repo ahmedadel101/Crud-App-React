@@ -1,0 +1,11 @@
+.form-control
+{
+    border: 1px solid rgb(255, 191, 0) !important ;
+    background-color: rgba(42, 42, 42, 0.931) !important;
+    color: rgb(0, 0, 0) !important;
+   
+}
+.form-control:focus{
+    box-shadow: 0 0 0 0.1rem rgba(255, 166, 0, 0.651) !important;
+    background-color: rgba(255, 166, 0, 0.651)  !important;
+}

@@ -1,0 +1,22 @@
+.CourseName 
+{
+    color:  rgb(255, 191, 0);
+    border-bottom: 1px solid rgb(255, 191, 0) ;
+}
+
+.CourseName button
+{
+    width: 75%;
+}
+
+@media only screen and (max-width: 768px){
+    .CourseName h3
+    {
+        text-align: center;
+    }
+    .CourseName button
+{
+    width: 60%;
+    margin: auto;
+}
+}
